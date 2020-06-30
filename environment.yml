@@ -22,6 +22,6 @@ dependencies:
     - seaborn       # Statistical visualizations
     - xarray        # N-d labeled array library
     - pip
-- pip:
-    - argopy        # Argo data access
-    - gsw           # TEOS Gibbs Seawater properties
+    - pip:
+        - argopy        # Argo data access
+        - gsw           # TEOS Gibbs Seawater properties
