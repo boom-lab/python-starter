@@ -21,6 +21,7 @@ dependencies:
     - statsmodels   # Regression/modeling toolkit
     - seaborn       # Statistical visualizations
     - xarray        # N-d labeled array library
-pip:
+    - pip
+- pip:
     - argopy        # Argo data access
     - gsw           # TEOS Gibbs Seawater properties
