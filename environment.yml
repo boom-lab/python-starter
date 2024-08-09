@@ -1,12 +1,11 @@
-name: oce_py311
+name: oce_py312
 channels:
   - pytorch
   - pyg
-  - anaconda
   - conda-forge
   - defaults
 dependencies:
-    - python>=3.11   # python 3.11
+    - python>=3.12   # python 3.11
     - dask          # Parallel processing library
     - distributed
     - h5py          # Wrapper for HDF5
